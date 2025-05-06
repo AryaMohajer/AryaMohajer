@@ -53,6 +53,14 @@
 ![Swift](https://img.shields.io/badge/-Swift-orange?logo=swift&logoColor=white)  
 ![UIKit](https://img.shields.io/badge/-UIKit-black?logo=apple&logoColor=white)  
 ![ARKit](https://img.shields.io/badge/-ARKit-1E90FF?logo=apple&logoColor=white)
+- 🗃️ **Core Data**
+- 🗺️ **MapKit**  
+- 🕶️ **ARKit**  
+- 🧩 **WidgetKit**  
+- 📡 **LiDAR**  
+- 🤖 **Core ML**  
+- 🔗 **APIs**  
+- 🎙️ **AVFoundation**
 
 **UI/UX & Prototyping**  
 ![Figma](https://img.shields.io/badge/-Figma-blue?logo=figma&logoColor=white)  
