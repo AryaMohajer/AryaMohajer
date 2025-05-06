@@ -31,21 +31,6 @@
 
 ---
 
-### 🚀 Technologies & Frameworks
-
-- **SwiftUI**  
-- **UIKit**  
-- **Core Data**  
-- **MapKit**  
-- **ARKit**  
-- **WidgetKit**  
-- **LiDAR**  
-- **Core ML**  
-- **APIs**  
-- **AVFoundation**
-
-
-  ---
 
 ### 🛠 Tools & Technologies
 
@@ -54,12 +39,10 @@
 ![UIKit](https://img.shields.io/badge/-UIKit-black?logo=apple&logoColor=white)  
 ![ARKit](https://img.shields.io/badge/-ARKit-1E90FF?logo=apple&logoColor=white)
 - 🗃️ **Core Data**
-- 🗺️ **MapKit**  
 - 🕶️ **ARKit**  
 - 🧩 **WidgetKit**  
 - 📡 **LiDAR**  
 - 🤖 **Core ML**  
-- 🔗 **APIs**  
 - 🎙️ **AVFoundation**
 
 **UI/UX & Prototyping**  
@@ -70,6 +53,8 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+- 🔗 **APIs**  
+
 ---
 
 ### 📈 GitHub Stats
