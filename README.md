@@ -1,4 +1,5 @@
-# Hi, I'm Arya 👋
+# Hello I'm Arya ![image]([https://github.com/user-attachments/assets/47dd8823-da2c-4fe4-9d78-136c100a9cae](https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif))
+
 
 **Swift programmer & Apple Developer Academy Student**  
 📍 Based in Naples, Italy  
@@ -7,7 +8,7 @@
 ---
 
 ### 👩‍💻 About Me
-I’m currently studying at the Apple Developer Academy, where I’m expanding my skills in Swift development, innovation, and user-centered design through hands-on, challenge-based learning. This experience is helping me grow as a collaborative problem solver and creative thinker for different technologies.
+I’m currently studying at the Apple Developer Academy, where I’m expanding my skills in Swift development, innovation, and team collaboration according to challenge-based learning. This experience is helping me grow as a collaborative problem solver and creative thinker for different technologies during commitment with other people.
 ---
 
 ### 🚀 Current Projects
