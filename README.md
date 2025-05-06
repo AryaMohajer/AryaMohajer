@@ -33,7 +33,6 @@
 
 
 ### 🛠 Tools & Technologies
-### 🛠 Tools & Technologies
 
 **Mobile & App Dev**  
 ![Swift](https://img.shields.io/badge/-Swift-orange?logo=swift&logoColor=white)  
@@ -55,6 +54,8 @@
 
 ---
 
-### 📫 Contact Me
-📧 [ariyamohajer321@gmail.com](ariyamohajer321@gmail.com)  
-💼 [LinkedIn: ariyamohajer321](https://www.linkedin.com/in/aryamohajer)  
+### 📫 Contact
+
+- 📧 **Email:** [ariyamohajer321@gmail.com](mailto:ariyamohajer321@gmail.com)  
+- 💬 **Discord:** aryamohajer  
+- 🌐 **Website:** *coming soon...*
