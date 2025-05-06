@@ -34,26 +34,31 @@
 
 ### 🛠 Tools & Technologies
 
-**Mobile & App Dev**  
-![Swift](https://img.shields.io/badge/-Swift-orange?logo=swift&logoColor=white)  
-![UIKit](https://img.shields.io/badge/-UIKit-black?logo=apple&logoColor=white)  
-![ARKit](https://img.shields.io/badge/-ARKit-1E90FF?logo=apple&logoColor=white)
-- 🗃️ **Core Data**
-- 🕶️ **ARKit**  
-- 🧩 **WidgetKit**  
-- 📡 **LiDAR**  
-- 🤖 **Core ML**  
-- 🎙️ **AVFoundation**
+#### 📱 Mobile & App Development
+![Swift](https://img.shields.io/badge/-Swift-orange?logo=swift&logoColor=white)
+![UIKit](https://img.shields.io/badge/-UIKit-black?logo=apple&logoColor=white)
+![ARKit](https://img.shields.io/badge/-ARKit-blue?logo=apple&logoColor=white)
 
-**UI/UX & Prototyping**  
-![Figma](https://img.shields.io/badge/-Figma-blue?logo=figma&logoColor=white)  
+- 🗂️ **Core Data**
+- 🗺️ **MapKit**
+- 🧩 **WidgetKit**
+- 📡 **LiDAR**
+- 🤖 **Core ML**
+- 🎙️ **AVFoundation**
+- 🔗 **APIs**
+
+---
+
+#### 🎨 UI/UX & Prototyping
+![Figma](https://img.shields.io/badge/-Figma-333?logo=figma)
 ![Sketch](https://img.shields.io/badge/-Sketch-F7B500?logo=sketch&logoColor=white)
 
-**Programming & Software**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
+---
+
+#### 💻 Programming & Software
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-- 🔗 **APIs**  
 
 ---
 
