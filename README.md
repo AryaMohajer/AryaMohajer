@@ -1,4 +1,4 @@
-# Hi, I'm Kimia 👋
+# Hi, I'm Arya 👋
 
 **Swift Enthusiast & Apple Developer Academy Student**  
 📍 Based in Naples, Italy  
