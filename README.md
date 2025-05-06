@@ -22,7 +22,7 @@ In this game Galactic Hoops is a fun and educational basketball shooting game se
 ---
 
 
-###🌱 Currently Learning**
+### 🌱 Currently Learning**
 **Swift (at Apple Developer Academy)**
 Agile Scrum (self-taught + courses)
 Data visualization (self-taught + courses)
