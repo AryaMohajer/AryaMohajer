@@ -31,6 +31,21 @@
 
 ---
 
+### 🚀 Technologies & Frameworks
+
+- **SwiftUI**  
+- **UIKit**  
+- **Core Data**  
+- **MapKit**  
+- **ARKit**  
+- **WidgetKit**  
+- **LiDAR**  
+- **Core ML**  
+- **APIs**  
+- **AVFoundation**
+
+
+  ---
 
 ### 🛠 Tools & Technologies
 
