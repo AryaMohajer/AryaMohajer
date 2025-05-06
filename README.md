@@ -24,9 +24,9 @@
 ---
 
 
-### 🌱 Currently Learning
-**Swift (at Apple Developer Academy)**
-**Agile Scrum (self-taught + courses)**
+### 🌱 Currently Learning  
+**Swift (at Apple Developer Academy)**  
+**Agile Scrum (self-taught + courses)**  
 **Data visualization (self-taught + courses)**
 
 ---
