@@ -1,8 +1,8 @@
 # Hi, I'm Arya 👋
 
-**Swift Enthusiast & Apple Developer Academy Student**  
+**Swift programmer & Apple Developer Academy Student**  
 📍 Based in Naples, Italy  
-💻 Computer Engineering @Sajad-University
+💻 Computer Engineering @Sajad University
 
 ---
 
