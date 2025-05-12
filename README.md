@@ -69,5 +69,4 @@
 ### 📫 Contact
 
 - 📧 **Email:** [ariyamohajer321@gmail.com](mailto:ariyamohajer321@gmail.com)  
-- 💬 **Discord:** aryamohajer  
-- 🌐 **Website:** *coming soon...*
+
