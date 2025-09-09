@@ -3,7 +3,7 @@
 
 
 **Swift programmer & Apple Developer Academy Student**  
-📍 Based in Naples, Italy  
+📍 Based in Turin, Italy  
 💻 Computer Engineering @Sajad University
 
 ---
